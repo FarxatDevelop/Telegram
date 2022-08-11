@@ -1,0 +1,17 @@
+.right {
+  min-height: 100vh;
+  width: 65%;
+  background: url("https://i.pinimg.com/1200x/20/99/f2/2099f2dda704cb708fe20347afb964ba.jpg");
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.right h4 {
+  display: inline;
+  background-color: rgb(48, 48, 48);
+  color: rgb(220, 218, 218);
+  border-radius: 8px;
+
+  padding: 0 3px;
+}

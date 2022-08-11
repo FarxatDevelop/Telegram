@@ -1,0 +1,42 @@
+.right-info {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  
+}
+header {
+  height: 70px;
+  min-height: 70px;
+  max-height: 70px;
+  width: 100% !important;
+  display: flex;
+  align-items: center;
+  background-color: #212121;
+  color: aliceblue;
+  padding-left: 10px;
+}
+header .profil-img {
+  width: 65px;
+  height: 65px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+header .profil-img img {
+  width: 85%;
+  height: 85%;
+  border-radius: 50%;
+  object-fit: cover;
+}
+header .profil-name {
+  height: 65px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 85%;
+}
+header .profil-name p {
+  font-weight: 600;
+}

@@ -1,0 +1,16 @@
+.pages {
+  width: 1000px;
+  margin: 0 auto;
+  display: flex;
+  background-color: #212121;
+}
+@media (max-width: 1022px) {
+  .pages {
+    width: 850px;
+  }
+}
+@media (max-width: 853px) {
+  .pages {
+    width: 850px;
+  }
+}

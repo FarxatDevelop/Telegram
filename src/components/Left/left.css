@@ -1,0 +1,9 @@
+.left {
+  min-height: 100vh;
+  width: 35%;
+  background-color: #212121;
+}
+.left a {
+  text-decoration: none;
+  color: rgb(13, 13, 70);
+}
